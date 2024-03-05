@@ -1,0 +1,45 @@
+# Visual Studio temporary files
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Compiled binaries and build output
+/bin/
+/obj/
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.resx
+*.cache
+*.ilk
+*.log
+*.zip
+*.ncrunch*
+*.sbr
+*.scc
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio cache files
+*.cache
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
